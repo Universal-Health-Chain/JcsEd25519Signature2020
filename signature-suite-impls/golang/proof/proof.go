@@ -5,7 +5,7 @@ import (
 	cryptorand "crypto/rand"
 	"encoding/json"
 	"fmt"
-	"signaturesuite/canonical"
+	"github.com/Universal-Health-Chain/JcsEd25519Signature2020/signature-suite-impls/golang/canonical"
 	"time"
 
 	"github.com/mr-tron/base58"
