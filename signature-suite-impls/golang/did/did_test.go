@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/crypto/ed25519"
 
-	"signaturesuite/proof"
+	"github.com/Universal-Health-Chain/JcsEd25519Signature2020/signature-suite-impls/golang/proof"
 )
 
 var (
