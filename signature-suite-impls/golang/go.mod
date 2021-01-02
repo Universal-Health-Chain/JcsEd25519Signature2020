@@ -1,4 +1,4 @@
-module signaturesuite
+module github.com/Universal-Health-Chain/JcsEd25519Signature2020/signature-suite-impls/golang
 
 go 1.13
 
